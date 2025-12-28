@@ -1,0 +1,2060 @@
+[
+  {
+    "title": "1 - Introduction",
+    "lessons": [
+      {
+        "title": "1 - Promo Video",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/1%20-%20Promo%20Video.mp4",
+        "filename": "1 - Promo Video.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/1%20-%20Promo%20Video%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "2 - Advice for you",
+        "url": null,
+        "filename": "2 - Advice for you.html",
+        "type": "text",
+        "content": "<p><a href=\"https://www.sidefx.com/download/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Here you can download Houdini 19</strong></a></p><ol><li><p>Houdini is not easy to learn and it can be frustrating in the beginning, but its very very powerful and robust. After you learn it, you will be able to create <strong>Magics</strong>!</p></li><li><p>You must focus while you watch my videos, don't talk or do other things while you watch the lectures, its not like other 3D applications.</p></li><li><p>You need to do hard work to learn it.</p></li><li><p>Ask me any question you want and I&nbsp;am going to help you.</p></li></ol><p><strong>If you found out anything wrong with any lecture like (wrong lectures order, missing files...), please let me know immediately by sending me a message.</strong></p><p><br></p><p><em>Good Luck :)</em></p>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3 - Quick Tour",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/3%20-%20Quick%20Tour.mp4",
+        "filename": "3 - Quick Tour.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/3%20-%20Quick%20Tour%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "4 - Shortcuts for navigating in the viewport",
+        "url": null,
+        "filename": "4 - Shortcuts for navigating in the viewport.html",
+        "type": "text",
+        "content": "<p>This is an image that shows you shortcuts for the Camera.</p><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/2017-10-09_20-08-19-e1f7cbe970a752ebcdccb80d25dac602.PNG\"></figure><ol><li><p><strong>Alt + left mouse = Tumble</strong></p></li><li><p><strong>Alt + right mouse = Zoom</strong></p></li><li><p><strong>Alt + middle mouse = track</strong></p></li><li><p><strong>Space + G or Space +H to frame the camera</strong></p></li><li><p><strong>Space + B to split the viewport</strong></p></li></ol>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "5 - Creating objects",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/5%20-%20Creating%20objects.mp4",
+        "filename": "5 - Creating objects.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/5%20-%20Creating%20objects%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "6 - Display and render flags",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/6%20-%20Display%20and%20render%20flags.mp4",
+        "filename": "6 - Display and render flags.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/6%20-%20Display%20and%20render%20flags%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "7 - Link channels",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/7%20-%20Link%20channels.mp4",
+        "filename": "7 - Link channels.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/7%20-%20Link%20channels%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "8 - Understanding Procedural",
+        "url": null,
+        "filename": "8 - Understanding Procedural.html",
+        "type": "text",
+        "content": "<p><a href=\"https://vimeo.com/285342770\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>I want you to watch this video and come back,this video will give you an overall information about the procedural Modeling</strong></a></p><p><br></p><figure><a href=\"https://vimeo.com/285342770\" rel=\"noopener noreferrer\" target=\"_blank\"><img src=\"https://img-c.udemycdn.com/redactor/raw/2019-02-12_12-14-30-f1b92868c616778541effedbedf2ead4.PNG\"></a></figure>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "9 - Creating Materials",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/9%20-%20Creating%20Materials.mp4",
+        "filename": "9 - Creating Materials.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/9%20-%20Creating%20Materials%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "10 - Homework",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/10%20-%20Homework.mp4",
+        "filename": "10 - Homework.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/10%20-%20Homework%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "11 - Fixing the topology of the cheese model",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/11%20-%20Fixing%20the%20topology%20of%20the%20cheese%20model.mp4",
+        "filename": "11 - Fixing the topology of the cheese model.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/11%20-%20Fixing%20the%20topology%20of%20the%20cheese%20model%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "12 - Creating your first animation",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/12%20-%20Creating%20your%20first%20animation.mp4",
+        "filename": "12 - Creating your first animation.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/12%20-%20Creating%20your%20first%20animation%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "13 - Creating a Cup using curves",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/13%20-%20Creating%20a%20Cup%20using%20curves.mp4",
+        "filename": "13 - Creating a Cup using curves.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/1%20-%20Introduction/13%20-%20Creating%20a%20Cup%20using%20curves%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "2 - Houdini Core Groups",
+    "lessons": [
+      {
+        "title": "14 - Creating groups by selection",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/2%20-%20Houdini%20Core%20Groups/14%20-%20Creating%20groups%20by%20selection.mp4",
+        "filename": "14 - Creating groups by selection.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/2%20-%20Houdini%20Core%20Groups/14%20-%20Creating%20groups%20by%20selection%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "15 - Grouping by bounding box and normal",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/2%20-%20Houdini%20Core%20Groups/15%20-%20Grouping%20by%20bounding%20box%20and%20normal.mp4",
+        "filename": "15 - Grouping by bounding box and normal.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/2%20-%20Houdini%20Core%20Groups/15%20-%20Grouping%20by%20bounding%20box%20and%20normal%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "16 - Group by Range",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/2%20-%20Houdini%20Core%20Groups/16%20-%20Group%20by%20Range.mp4",
+        "filename": "16 - Group by Range.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/2%20-%20Houdini%20Core%20Groups/16%20-%20Group%20by%20Range%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "3 - Houdini CoreAttributes",
+    "lessons": [
+      {
+        "title": "17 - Attributes",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/3%20-%20Houdini%20CoreAttributes/17%20-%20Attributes.mp4",
+        "filename": "17 - Attributes.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/3%20-%20Houdini%20CoreAttributes/17%20-%20Attributes%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "18 - Attribute transfer",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/3%20-%20Houdini%20CoreAttributes/18%20-%20Attribute%20transfer.mp4",
+        "filename": "18 - Attribute transfer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/3%20-%20Houdini%20CoreAttributes/18%20-%20Attribute%20transfer%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "19 - Attribute Randomize",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/3%20-%20Houdini%20CoreAttributes/19%20-%20Attribute%20Randomize.mp4",
+        "filename": "19 - Attribute Randomize.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/3%20-%20Houdini%20CoreAttributes/19%20-%20Attribute%20Randomize%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "4 - Some Modeling stuff",
+    "lessons": [
+      {
+        "title": "20 - Here you can download the files for this section",
+        "url": null,
+        "filename": "20 - Here you can download the files for this section.html",
+        "type": "text",
+        "content": "<p><strong>Here you can download the files for this section:</strong></p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "20 - OilLogo.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/20%20-%20OilLogo.zip",
+            "type": "zip"
+          },
+          {
+            "title": "20 - SpiderWebFinishedv01.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/20%20-%20SpiderWebFinishedv01.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "21 - Modeling an oil Barrel",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/21%20-%20Modeling%20an%20oil%20Barrel.mp4",
+        "filename": "21 - Modeling an oil Barrel.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/21%20-%20Modeling%20an%20oil%20Barrel%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "22 - Add texture to the Oil Barrel",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/22%20-%20Add%20texture%20to%20the%20Oil%20Barrel.mp4",
+        "filename": "22 - Add texture to the Oil Barrel.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/22%20-%20Add%20texture%20to%20the%20Oil%20Barrel%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "23 - Creating Dollar symbol",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/23%20-%20Creating%20Dollar%20symbol.mp4",
+        "filename": "23 - Creating Dollar symbol.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/23%20-%20Creating%20Dollar%20symbol%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "24 - Spider Web",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/24%20-%20Spider%20Web.mp4",
+        "filename": "24 - Spider Web.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/24%20-%20Spider%20Web%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "25 - Creating Organic Shape",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/25%20-%20Creating%20Organic%20Shape.mp4",
+        "filename": "25 - Creating Organic Shape.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/4%20-%20Some%20Modeling%20stuff/25%20-%20Creating%20Organic%20Shape%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "5 - Introduction to Pyro in Houdini 19",
+    "lessons": [
+      {
+        "title": "26 - Introduction",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/26%20-%20Introduction.mp4",
+        "filename": "26 - Introduction.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/26%20-%20Introduction%20English.vtt",
+        "resources": [
+          {
+            "title": "30 - Candlev01.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/30%20-%20Candlev01.zip",
+            "type": "zip"
+          },
+          {
+            "title": "35 - TireModel.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/35%20-%20TireModel.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "27 - Explaining the smoke nodes",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/27%20-%20Explaining%20the%20smoke%20nodes.mp4",
+        "filename": "27 - Explaining the smoke nodes.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/27%20-%20Explaining%20the%20smoke%20nodes%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "28 - Caching the simulation",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/28%20-%20Caching%20the%20simulation.mp4",
+        "filename": "28 - Caching the simulation.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/28%20-%20Caching%20the%20simulation%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "29 - Creating a coffee steam",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/29%20-%20Creating%20a%20coffee%20steam.mp4",
+        "filename": "29 - Creating a coffee steam.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/29%20-%20Creating%20a%20coffee%20steam%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "30 - Candle effect",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/30%20-%20Candle%20effect.mp4",
+        "filename": "30 - Candle effect.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/30%20-%20Candle%20effect%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "31 - Creating a flipbook",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/31%20-%20Creating%20a%20flipbook.mp4",
+        "filename": "31 - Creating a flipbook.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/31%20-%20Creating%20a%20flipbook%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "32 - Pyro fields and shapes Guide",
+        "url": null,
+        "filename": "32 - Pyro fields and shapes Guide.html",
+        "type": "text",
+        "content": "<figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-11-15_12-42-07-e32044f3952a7853b05d425123335b4a.JPG\"></figure><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-11-15_12-42-07-be66ccb5096f76813c2e1830296468d0.JPG\"></figure><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-11-15_12-42-07-e534f4e31fc9eecc573d31b64bd10a98.JPG\"></figure><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-11-15_12-42-07-b187706e7e61c42e178d9a4ea090672a.JPG\"></figure><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-11-15_12-42-07-dce65a36d5212adfd2ad0edbb73adac2.JPG\"></figure>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "33 - Microsolvers",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/33%20-%20Microsolvers.mp4",
+        "filename": "33 - Microsolvers.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/33%20-%20Microsolvers%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "34 - Gas Axis Force",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/34%20-%20Gas%20Axis%20Force.mp4",
+        "filename": "34 - Gas Axis Force.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/34%20-%20Gas%20Axis%20Force%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "35 - Wheel burnout Prepare the geometry",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/35%20-%20Wheel%20burnout%20Prepare%20the%20geometry.mp4",
+        "filename": "35 - Wheel burnout Prepare the geometry.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/35%20-%20Wheel%20burnout%20Prepare%20the%20geometry%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "36 - Wheel burnout Creating the smoke",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/36%20-%20Wheel%20burnout%20Creating%20the%20smoke.mp4",
+        "filename": "36 - Wheel burnout Creating the smoke.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/36%20-%20Wheel%20burnout%20Creating%20the%20smoke%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "37 - Fire intro",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/37%20-%20Fire%20intro.mp4",
+        "filename": "37 - Fire intro.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/37%20-%20Fire%20intro%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "38 - Aces color space",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/38%20-%20Aces%20color%20space.mp4",
+        "filename": "38 - Aces color space.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/38%20-%20Aces%20color%20space%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "39 - Creating the Fire",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/39%20-%20Creating%20the%20Fire.mp4",
+        "filename": "39 - Creating the Fire.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/39%20-%20Creating%20the%20Fire%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "40 - Shading the fire",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/40%20-%20Shading%20the%20fire.mp4",
+        "filename": "40 - Shading the fire.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/40%20-%20Shading%20the%20fire%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "41 - Final touches in Nuke",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/41%20-%20Final%20touches%20in%20Nuke.mp4",
+        "filename": "41 - Final touches in Nuke.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/41%20-%20Final%20touches%20in%20Nuke%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "42 - How to Download Aces OCIO",
+        "url": null,
+        "filename": "42 - How to Download Aces OCIO.html",
+        "type": "text",
+        "content": "<p>This link shows you how to download OpenColorIO Aces</p><p>https://pixelbend.eu/?p=37274</p><p>https://paperkrane.io/articles/setting-up-aces-color-space-in-houdini-19-and-up/</p>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "43 - Colored Smoke",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/43%20-%20Colored%20Smoke.mp4",
+        "filename": "43 - Colored Smoke.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/43%20-%20Colored%20Smoke%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "44 - Temperature diffusion and cooling",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/44%20-%20Temperature%20diffusion%20and%20cooling.mp4",
+        "filename": "44 - Temperature diffusion and cooling.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/5%20-%20Introduction%20to%20Pyro%20in%20Houdini%2019/44%20-%20Temperature%20diffusion%20and%20cooling%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "6 - Flip Fluids in Houdini 19",
+    "lessons": [
+      {
+        "title": "45 - Flip Fluids section Demo",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/45%20-%20Flip%20Fluids%20section%20Demo.mp4",
+        "filename": "45 - Flip Fluids section Demo.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/45%20-%20Flip%20Fluids%20section%20Demo%20English.vtt",
+        "resources": [
+          {
+            "title": "54 - ChocolateGeometry.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/54%20-%20ChocolateGeometry.zip",
+            "type": "zip"
+          },
+          {
+            "title": "59 - InteriorHDR.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/59%20-%20InteriorHDR.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "46 - Intro to Flip Fluids",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/46%20-%20Intro%20to%20Flip%20Fluids.mp4",
+        "filename": "46 - Intro to Flip Fluids.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/46%20-%20Intro%20to%20Flip%20Fluids%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "47 - Particle fluid",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/47%20-%20Particle%20fluid.mp4",
+        "filename": "47 - Particle fluid.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/47%20-%20Particle%20fluid%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "48 - Fluids Mix",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/48%20-%20Fluids%20Mix.mp4",
+        "filename": "48 - Fluids Mix.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/48%20-%20Fluids%20Mix%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "49 - Fluids Mix with one mesh",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/49%20-%20Fluids%20Mix%20with%20one%20mesh.mp4",
+        "filename": "49 - Fluids Mix with one mesh.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/49%20-%20Fluids%20Mix%20with%20one%20mesh%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "50 - Adding forces to the Fluids",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/50%20-%20Adding%20forces%20to%20the%20Fluids.mp4",
+        "filename": "50 - Adding forces to the Fluids.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/50%20-%20Adding%20forces%20to%20the%20Fluids%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "51 - Viscosity",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/51%20-%20Viscosity.mp4",
+        "filename": "51 - Viscosity.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/51%20-%20Viscosity%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "52 - Viscosity attribute",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/52%20-%20Viscosity%20attribute.mp4",
+        "filename": "52 - Viscosity attribute.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/52%20-%20Viscosity%20attribute%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "53 - Fixing issues caused by fast moving objects",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/53%20-%20Fixing%20issues%20caused%20by%20fast%20moving%20objects.mp4",
+        "filename": "53 - Fixing issues caused by fast moving objects.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/53%20-%20Fixing%20issues%20caused%20by%20fast%20moving%20objects%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "54 - Preparing the emitters",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/54%20-%20Preparing%20the%20emitters.mp4",
+        "filename": "54 - Preparing the emitters.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/54%20-%20Preparing%20the%20emitters%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "55 - Creating the fluid",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/55%20-%20Creating%20the%20fluid.mp4",
+        "filename": "55 - Creating the fluid.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/55%20-%20Creating%20the%20fluid%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "56 - Adjusting the particle simulation",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/56%20-%20Adjusting%20the%20particle%20simulation.mp4",
+        "filename": "56 - Adjusting the particle simulation.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/56%20-%20Adjusting%20the%20particle%20simulation%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "57 - Creating and caching the mesh",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/57%20-%20Creating%20and%20caching%20the%20mesh.mp4",
+        "filename": "57 - Creating and caching the mesh.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/57%20-%20Creating%20and%20caching%20the%20mesh%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "58 - Setup the background and camera",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/58%20-%20Setup%20the%20background%20and%20camera.mp4",
+        "filename": "58 - Setup the background and camera.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/58%20-%20Setup%20the%20background%20and%20camera%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "59 - Setup the lighting and shading",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/59%20-%20Setup%20the%20lighting%20and%20shading.mp4",
+        "filename": "59 - Setup the lighting and shading.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/59%20-%20Setup%20the%20lighting%20and%20shading%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "60 - Final touches inside nuke",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/60%20-%20Final%20touches%20inside%20nuke.mp4",
+        "filename": "60 - Final touches inside nuke.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/6%20-%20Flip%20Fluids%20in%20Houdini%2019/60%20-%20Final%20touches%20inside%20nuke%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "7 - Introduction to Explosions in Houdini 19",
+    "lessons": [
+      {
+        "title": "61 - Creating your first explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/61%20-%20Creating%20your%20first%20explosion.mp4",
+        "filename": "61 - Creating your first explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/61%20-%20Creating%20your%20first%20explosion%20English.vtt",
+        "resources": [
+          {
+            "title": "68 - Barrelexp.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/68%20-%20Barrelexp.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "62 - Enhancing the look of the explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/62%20-%20Enhancing%20the%20look%20of%20the%20explosion.mp4",
+        "filename": "62 - Enhancing the look of the explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/62%20-%20Enhancing%20the%20look%20of%20the%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "63 - Adding velocity boost",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/63%20-%20Adding%20velocity%20boost.mp4",
+        "filename": "63 - Adding velocity boost.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/63%20-%20Adding%20velocity%20boost%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "64 - Pyro burst source",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/64%20-%20Pyro%20burst%20source.mp4",
+        "filename": "64 - Pyro burst source.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/64%20-%20Pyro%20burst%20source%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "65 - Pyro burst source blurry explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/65%20-%20Pyro%20burst%20source%20blurry%20explosion.mp4",
+        "filename": "65 - Pyro burst source blurry explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/65%20-%20Pyro%20burst%20source%20blurry%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "66 - Creating Multiple explosions",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/66%20-%20Creating%20Multiple%20explosions.mp4",
+        "filename": "66 - Creating Multiple explosions.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/66%20-%20Creating%20Multiple%20explosions%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "67 - Shockwave",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/67%20-%20Shockwave.mp4",
+        "filename": "67 - Shockwave.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/67%20-%20Shockwave%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "68 - Creating the barrel explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/68%20-%20Creating%20the%20barrel%20explosion.mp4",
+        "filename": "68 - Creating the barrel explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/68%20-%20Creating%20the%20barrel%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "69 - lighting and caching the explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/69%20-%20lighting%20and%20caching%20the%20explosion.mp4",
+        "filename": "69 - lighting and caching the explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/69%20-%20lighting%20and%20caching%20the%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "70 - Shading and rendering",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/70%20-%20Shading%20and%20rendering.mp4",
+        "filename": "70 - Shading and rendering.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/70%20-%20Shading%20and%20rendering%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "71 - Explosion final touches in Nuke",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/71%20-%20Explosion%20final%20touches%20in%20Nuke.mp4",
+        "filename": "71 - Explosion final touches in Nuke.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/71%20-%20Explosion%20final%20touches%20in%20Nuke%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "72 - Creating trails for explosions",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/72%20-%20Creating%20trails%20for%20explosions.mp4",
+        "filename": "72 - Creating trails for explosions.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/72%20-%20Creating%20trails%20for%20explosions%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "73 - Adding fire to Trails",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/73%20-%20Adding%20fire%20to%20Trails.mp4",
+        "filename": "73 - Adding fire to Trails.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/7%20-%20Introduction%20to%20Explosions%20in%20Houdini%2019/73%20-%20Adding%20fire%20to%20Trails%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "8 - Big scale explosion in Houdini 19",
+    "lessons": [
+      {
+        "title": "74 - Downloadable resources",
+        "url": null,
+        "filename": "74 - Downloadable resources.html",
+        "type": "text",
+        "content": "<p>Here you can download the resources</p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "74 - BigScaleExplosionFiles.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/74%20-%20BigScaleExplosionFiles.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "75 - Creating the main explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/75%20-%20Creating%20the%20main%20explosion.mp4",
+        "filename": "75 - Creating the main explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/75%20-%20Creating%20the%20main%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "76 - Finish and cache the main explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/76%20-%20Finish%20and%20cache%20the%20main%20explosion.mp4",
+        "filename": "76 - Finish and cache the main explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/76%20-%20Finish%20and%20cache%20the%20main%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "77 - Creating the Big shockwave",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/77%20-%20Creating%20the%20Big%20shockwave.mp4",
+        "filename": "77 - Creating the Big shockwave.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/77%20-%20Creating%20the%20Big%20shockwave%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "78 - Creating the trails for big scale explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/78%20-%20Creating%20the%20trails%20for%20big%20scale%20explosion.mp4",
+        "filename": "78 - Creating the trails for big scale explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/78%20-%20Creating%20the%20trails%20for%20big%20scale%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "79 - Adding volume light to the main explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/79%20-%20Adding%20volume%20light%20to%20the%20main%20explosion.mp4",
+        "filename": "79 - Adding volume light to the main explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/79%20-%20Adding%20volume%20light%20to%20the%20main%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "80 - Adding final touches for Big explosion in Nuke",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/80%20-%20Adding%20final%20touches%20for%20Big%20explosion%20in%20Nuke.mp4",
+        "filename": "80 - Adding final touches for Big explosion in Nuke.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/8%20-%20Big%20scale%20explosion%20in%20Houdini%2019/80%20-%20Adding%20final%20touches%20for%20Big%20explosion%20in%20Nuke%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "9 - Introduction to Rigid Bodies",
+    "lessons": [
+      {
+        "title": "81 - Downloadable Resources",
+        "url": null,
+        "filename": "81 - Downloadable Resources.html",
+        "type": "text",
+        "content": "<p>Here you can download the resources used in this section</p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "81 - RBDSectionResources.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/81%20-%20RBDSectionResources.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "82 - Understanding RBD Objects",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/82%20-%20Understanding%20RBD%20Objects.mp4",
+        "filename": "82 - Understanding RBD Objects.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/82%20-%20Understanding%20RBD%20Objects%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "83 - Packed Primitives",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/83%20-%20Packed%20Primitives.mp4",
+        "filename": "83 - Packed Primitives.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/83%20-%20Packed%20Primitives%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "84 - Wall Destruction",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/84%20-%20Wall%20Destruction.mp4",
+        "filename": "84 - Wall Destruction.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/84%20-%20Wall%20Destruction%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "85 - Adding more details to the wall destruction",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/85%20-%20Adding%20more%20details%20to%20the%20wall%20destruction.mp4",
+        "filename": "85 - Adding more details to the wall destruction.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/85%20-%20Adding%20more%20details%20to%20the%20wall%20destruction%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "86 - Tips for Destruction",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/86%20-%20Tips%20for%20Destruction.mp4",
+        "filename": "86 - Tips for Destruction.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/86%20-%20Tips%20for%20Destruction%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "87 - Pin Constraint",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/87%20-%20Pin%20Constraint.mp4",
+        "filename": "87 - Pin Constraint.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/87%20-%20Pin%20Constraint%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "88 - Hinge Constraint",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/88%20-%20Hinge%20Constraint.mp4",
+        "filename": "88 - Hinge Constraint.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/9%20-%20Introduction%20to%20Rigid%20Bodies/88%20-%20Hinge%20Constraint%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "10 - Particles",
+    "lessons": [
+      {
+        "title": "89 - Creating particle Emitter",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/89%20-%20Creating%20particle%20Emitter.mp4",
+        "filename": "89 - Creating particle Emitter.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/89%20-%20Creating%20particle%20Emitter%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "90 - Creating Forces",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/90%20-%20Creating%20Forces.mp4",
+        "filename": "90 - Creating Forces.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/90%20-%20Creating%20Forces%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "91 - Emitting from surfaces Manually",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/91%20-%20Emitting%20from%20surfaces%20Manually.mp4",
+        "filename": "91 - Emitting from surfaces Manually.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/91%20-%20Emitting%20from%20surfaces%20Manually%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "92 - Filling a Text with particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/92%20-%20Filling%20a%20Text%20with%20particles.mp4",
+        "filename": "92 - Filling a Text with particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/92%20-%20Filling%20a%20Text%20with%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "93 - Curve Force",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/93%20-%20Curve%20Force.mp4",
+        "filename": "93 - Curve Force.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/93%20-%20Curve%20Force%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "94 - Animated Curves",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/94%20-%20Animated%20Curves.mp4",
+        "filename": "94 - Animated Curves.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/10%20-%20Particles/94%20-%20Animated%20Curves%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "11 - Introduction to VOPs",
+    "lessons": [
+      {
+        "title": "95 - Intro to VOPs",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/11%20-%20Introduction%20to%20VOPs/95%20-%20Intro%20to%20VOPs.mp4",
+        "filename": "95 - Intro to VOPs.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/11%20-%20Introduction%20to%20VOPs/95%20-%20Intro%20to%20VOPs%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "96 - Clamp",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/11%20-%20Introduction%20to%20VOPs/96%20-%20Clamp.mp4",
+        "filename": "96 - Clamp.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/11%20-%20Introduction%20to%20VOPs/96%20-%20Clamp%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "97 - Adding random scale",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/11%20-%20Introduction%20to%20VOPs/97%20-%20Adding%20random%20scale.mp4",
+        "filename": "97 - Adding random scale.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/11%20-%20Introduction%20to%20VOPs/97%20-%20Adding%20random%20scale%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "12 - Introduction to Vellum",
+    "lessons": [
+      {
+        "title": "98 - Here you can download the files for this section Vellum",
+        "url": null,
+        "filename": "98 - Here you can download the files for this section Vellum.html",
+        "type": "text",
+        "content": "<p>Here you can download the files for this section</p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "98 - AnimatedFlag.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/98%20-%20AnimatedFlag.zip",
+            "type": "zip"
+          },
+          {
+            "title": "98 - Balloonscenes.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/98%20-%20Balloonscenes.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "99 - Note",
+        "url": null,
+        "filename": "99 - Note.html",
+        "type": "text",
+        "content": "<figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-06-30_11-03-19-34f0639f38ba4f70937b9188ac2f85bc.png\"></figure>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "100 - Creating a Flag using Vellum",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/100%20-%20Creating%20a%20Flag%20using%20Vellum.mp4",
+        "filename": "100 - Creating a Flag using Vellum.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/100%20-%20Creating%20a%20Flag%20using%20Vellum%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "101 - Attaching a cloth to Animated object",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/101%20-%20Attaching%20a%20cloth%20to%20Animated%20object.mp4",
+        "filename": "101 - Attaching a cloth to Animated object.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/101%20-%20Attaching%20a%20cloth%20to%20Animated%20object%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "102 - Pressure constraint",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/102%20-%20Pressure%20constraint.mp4",
+        "filename": "102 - Pressure constraint.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/102%20-%20Pressure%20constraint%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "103 - Continuous Emitting",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/103%20-%20Continuous%20Emitting.mp4",
+        "filename": "103 - Continuous Emitting.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/12%20-%20Introduction%20to%20Vellum/103%20-%20Continuous%20Emitting%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "13 - Creating rain effect",
+    "lessons": [
+      {
+        "title": "104 - Rain Effect introduction",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/104%20-%20Rain%20Effect%20introduction.mp4",
+        "filename": "104 - Rain Effect introduction.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/104%20-%20Rain%20Effect%20introduction%20English.vtt",
+        "resources": [
+          {
+            "title": "104 - Rain.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/104%20-%20Rain.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "105 - Rain effect part 1",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/105%20-%20Rain%20effect%20part%201.mp4",
+        "filename": "105 - Rain effect part 1.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/105%20-%20Rain%20effect%20part%201%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "106 - Rain effect part 2",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/106%20-%20Rain%20effect%20part%202.mp4",
+        "filename": "106 - Rain effect part 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/106%20-%20Rain%20effect%20part%202%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "107 - Rain effect part 3",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/107%20-%20Rain%20effect%20part%203.mp4",
+        "filename": "107 - Rain effect part 3.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/13%20-%20Creating%20rain%20effect/107%20-%20Rain%20effect%20part%203%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "14 - Creating Sand and Snow Effect in Houdini",
+    "lessons": [
+      {
+        "title": "108 - Fill an object with sand",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20Fill%20an%20object%20with%20sand.mp4",
+        "filename": "108 - Fill an object with sand.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20Fill%20an%20object%20with%20sand%20English.vtt",
+        "resources": [
+          {
+            "title": "108 - ChurchHarvestLobbyLittleBlured.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20ChurchHarvestLobbyLittleBlured.zip",
+            "type": "zip"
+          },
+          {
+            "title": "108 - HoudinisceneSnowHighresv01.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20HoudinisceneSnowHighresv01.zip",
+            "type": "zip"
+          },
+          {
+            "title": "108 - Sandv005.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20Sandv005.zip",
+            "type": "zip"
+          },
+          {
+            "title": "108 - SkAlembic.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20SkAlembic.zip",
+            "type": "zip"
+          },
+          {
+            "title": "108 - SKAnimationmayascene.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/108%20-%20SKAnimationmayascene.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "109 - creating the ground and cache the file",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/109%20-%20creating%20the%20ground%20and%20cache%20the%20file.mp4",
+        "filename": "109 - creating the ground and cache the file.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/109%20-%20creating%20the%20ground%20and%20cache%20the%20file%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "110 - Upres the sand",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/110%20-%20Upres%20the%20sand.mp4",
+        "filename": "110 - Upres the sand.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/110%20-%20Upres%20the%20sand%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "111 - creating the project folder",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/111%20-%20creating%20the%20project%20folder.mp4",
+        "filename": "111 - creating the project folder.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/111%20-%20creating%20the%20project%20folder%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "112 - Importing the animation to Houdini",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/112%20-%20Importing%20the%20animation%20to%20Houdini.mp4",
+        "filename": "112 - Importing the animation to Houdini.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/112%20-%20Importing%20the%20animation%20to%20Houdini%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "113 - scale and clean the animation",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/113%20-%20scale%20and%20clean%20the%20animation.mp4",
+        "filename": "113 - scale and clean the animation.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/113%20-%20scale%20and%20clean%20the%20animation%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "114 - setup the collision to the animation",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/114%20-%20setup%20the%20collision%20to%20the%20animation.mp4",
+        "filename": "114 - setup the collision to the animation.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/114%20-%20setup%20the%20collision%20to%20the%20animation%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "115 - creating the camera and the object to fill it with sand",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/115%20-%20creating%20the%20camera%20and%20the%20object%20to%20fill%20it%20with%20sand.mp4",
+        "filename": "115 - creating the camera and the object to fill it with sand.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/115%20-%20creating%20the%20camera%20and%20the%20object%20to%20fill%20it%20with%20sand%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "116 - fill the geometry with sand",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/116%20-%20fill%20the%20geometry%20with%20sand.mp4",
+        "filename": "116 - fill the geometry with sand.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/116%20-%20fill%20the%20geometry%20with%20sand%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "117 - creating High res sand",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/117%20-%20creating%20High%20res%20sand.mp4",
+        "filename": "117 - creating High res sand.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/117%20-%20creating%20High%20res%20sand%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "118 - creating the snow effect",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/118%20-%20creating%20the%20snow%20effect.mp4",
+        "filename": "118 - creating the snow effect.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/118%20-%20creating%20the%20snow%20effect%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "119 - Adding variation to the particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/119%20-%20Adding%20variation%20to%20the%20particles.mp4",
+        "filename": "119 - Adding variation to the particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/119%20-%20Adding%20variation%20to%20the%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "120 - Adding material to the particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/120%20-%20Adding%20material%20to%20the%20particles.mp4",
+        "filename": "120 - Adding material to the particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/120%20-%20Adding%20material%20to%20the%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "121 - Final result of thirty million particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/121%20-%20Final%20result%20of%20thirty%20million%20particles.mp4",
+        "filename": "121 - Final result of thirty million particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/121%20-%20Final%20result%20of%20thirty%20million%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "122 - The Final result",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/122%20-%20The%20Final%20result.mp4",
+        "filename": "122 - The Final result.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/122%20-%20The%20Final%20result%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "123 - Adding snow particles to the final render",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/123%20-%20Adding%20snow%20particles%20to%20the%20final%20render.mp4",
+        "filename": "123 - Adding snow particles to the final render.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/123%20-%20Adding%20snow%20particles%20to%20the%20final%20render%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "124 - Deform the Geometry with grain solver",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/124%20-%20Deform%20the%20Geometry%20with%20grain%20solver.mp4",
+        "filename": "124 - Deform the Geometry with grain solver.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/14%20-%20Creating%20Sand%20and%20Snow%20Effect%20in%20Houdini/124%20-%20Deform%20the%20Geometry%20with%20grain%20solver%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "15 - RBD Material Fracture",
+    "lessons": [
+      {
+        "title": "125 - Basics of RBD Material Fracture",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/15%20-%20RBD%20Material%20Fracture/125%20-%20Basics%20of%20RBD%20Material%20Fracture.mp4",
+        "filename": "125 - Basics of RBD Material Fracture.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/15%20-%20RBD%20Material%20Fracture/125%20-%20Basics%20of%20RBD%20Material%20Fracture%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "126 - Adding more details",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/15%20-%20RBD%20Material%20Fracture/126%20-%20Adding%20more%20details.mp4",
+        "filename": "126 - Adding more details.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/15%20-%20RBD%20Material%20Fracture/126%20-%20Adding%20more%20details%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "127 - Glass Fracture",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/15%20-%20RBD%20Material%20Fracture/127%20-%20Glass%20Fracture.mp4",
+        "filename": "127 - Glass Fracture.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/15%20-%20RBD%20Material%20Fracture/127%20-%20Glass%20Fracture%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "16 - Explosions in Houdini 165 Legacy",
+    "lessons": [
+      {
+        "title": "128 - Note",
+        "url": null,
+        "filename": "128 - Note.html",
+        "type": "text",
+        "content": "<p><strong>This section is outdated, I will add new section about Explosions in Houdini 19 next month.</strong></p><p><strong>There are a lot of tips and tricks, although it's outdated but you can learn a lot from it.</strong></p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "129 - Houseexplosionguidev01.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/129%20-%20Houseexplosionguidev01.zip",
+            "type": "zip"
+          },
+          {
+            "title": "134 - GasolineexplosionFiles.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/134%20-%20GasolineexplosionFiles.zip",
+            "type": "zip"
+          },
+          {
+            "title": "139 - Desertexpstudentv01.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/139%20-%20Desertexpstudentv01.zip",
+            "type": "zip"
+          },
+          {
+            "title": "141 - RendersandNuke.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/141%20-%20RendersandNuke.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "129 - Creating simple explosion part 1",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/129%20-%20Creating%20simple%20explosion%20part%201.mp4",
+        "filename": "129 - Creating simple explosion part 1.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/129%20-%20Creating%20simple%20explosion%20part%201%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "130 - Creating simple explosion part 2",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/130%20-%20Creating%20simple%20explosion%20part%202.mp4",
+        "filename": "130 - Creating simple explosion part 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/130%20-%20Creating%20simple%20explosion%20part%202%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "131 - Understanding the Source Volume",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/131%20-%20Understanding%20the%20Source%20Volume.mp4",
+        "filename": "131 - Understanding the Source Volume.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/131%20-%20Understanding%20the%20Source%20Volume%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "132 - Timing your explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/132%20-%20Timing%20your%20explosion.mp4",
+        "filename": "132 - Timing your explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/132%20-%20Timing%20your%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "133 - Gasoline Explosion Intro",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/133%20-%20Gasoline%20Explosion%20Intro.mp4",
+        "filename": "133 - Gasoline Explosion Intro.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/133%20-%20Gasoline%20Explosion%20Intro%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "134 - Here you can download files for Gasoline explosion",
+        "url": null,
+        "filename": "134 - Here you can download files for Gasoline explosion.html",
+        "type": "text",
+        "content": "<p>Here you can download files for Gasoline explosion.</p>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "135 - Creating the explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/135%20-%20Creating%20the%20explosion.mp4",
+        "filename": "135 - Creating the explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/135%20-%20Creating%20the%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "136 - Lightshade and render the explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/136%20-%20Lightshade%20and%20render%20the%20explosion.mp4",
+        "filename": "136 - Lightshade and render the explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/136%20-%20Lightshade%20and%20render%20the%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "137 - Timing the explosion",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/137%20-%20Timing%20the%20explosion.mp4",
+        "filename": "137 - Timing the explosion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/137%20-%20Timing%20the%20explosion%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "138 - Camera Shake",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/138%20-%20Camera%20Shake.mp4",
+        "filename": "138 - Camera Shake.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/138%20-%20Camera%20Shake%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "139 - Desert Explosion intro",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/139%20-%20Desert%20Explosion%20intro.mp4",
+        "filename": "139 - Desert Explosion intro.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/139%20-%20Desert%20Explosion%20intro%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "140 - Desert Explosion advanced",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/140%20-%20Desert%20Explosion%20advanced.mp4",
+        "filename": "140 - Desert Explosion advanced.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/140%20-%20Desert%20Explosion%20advanced%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "141 - Final touches in Nuke Advanced",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/141%20-%20Final%20touches%20in%20Nuke%20Advanced.mp4",
+        "filename": "141 - Final touches in Nuke Advanced.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/16%20-%20Explosions%20in%20Houdini%20165%20Legacy/141%20-%20Final%20touches%20in%20Nuke%20Advanced%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "17 - Small scale Ocean",
+    "lessons": [
+      {
+        "title": "142 - Small scale Ocean",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/17%20-%20Small%20scale%20Ocean/142%20-%20Small%20scale%20Ocean.mp4",
+        "filename": "142 - Small scale Ocean.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/17%20-%20Small%20scale%20Ocean/142%20-%20Small%20scale%20Ocean%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "143 - Small scale ocean part 2",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/17%20-%20Small%20scale%20Ocean/143%20-%20Small%20scale%20ocean%20part%202.mp4",
+        "filename": "143 - Small scale ocean part 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/17%20-%20Small%20scale%20Ocean/143%20-%20Small%20scale%20ocean%20part%202%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "18 - Big scale Ocean",
+    "lessons": [
+      {
+        "title": "144 - Big scale Ocean",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/18%20-%20Big%20scale%20Ocean/144%20-%20Big%20scale%20Ocean.mp4",
+        "filename": "144 - Big scale Ocean.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/18%20-%20Big%20scale%20Ocean/144%20-%20Big%20scale%20Ocean%20English.vtt",
+        "resources": [
+          {
+            "title": "144 - EnvDawnSun.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/18%20-%20Big%20scale%20Ocean/144%20-%20EnvDawnSun.zip",
+            "type": "zip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "19 - Shark jumping from water",
+    "lessons": [
+      {
+        "title": "145 - Shark part 1",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/145%20-%20Shark%20part%201.mp4",
+        "filename": "145 - Shark part 1.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/145%20-%20Shark%20part%201%20English.vtt",
+        "resources": [
+          {
+            "title": "145 - SharkFiles.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/145%20-%20SharkFiles.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "146 - Shark part 2",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/146%20-%20Shark%20part%202.mp4",
+        "filename": "146 - Shark part 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/146%20-%20Shark%20part%202%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "147 - Shark part 3",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/147%20-%20Shark%20part%203.mp4",
+        "filename": "147 - Shark part 3.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/19%20-%20Shark%20jumping%20from%20water/147%20-%20Shark%20part%203%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "148 - Note",
+        "url": null,
+        "filename": "148 - Note.html",
+        "type": "text",
+        "content": "<p><strong>The Course is still updated</strong></p><p>As you know creating valuable lessons takes time :),Make sure you check the course description to see the last updates.</p><p>Here are some links to some free tutorials:</p><p><br></p><p>https://www.sidefx.com/tutorials/</p><p><br></p><h4><strong>Talks &amp; Webinars</strong></h4><p>https://www.sidefx.com/learn/talks/</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "20 - Creating droplets effect",
+    "lessons": [
+      {
+        "title": "149 - Downloadable Resources",
+        "url": null,
+        "filename": "149 - Downloadable Resources.html",
+        "type": "text",
+        "content": "<p>Here you can download the files for this section.</p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "149 - FilesforstudentsCondensation.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/20%20-%20Creating%20droplets%20effect/149%20-%20FilesforstudentsCondensation.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "150 - Creating Droplets Condensation",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/20%20-%20Creating%20droplets%20effect/150%20-%20Creating%20Droplets%20Condensation.mp4",
+        "filename": "150 - Creating Droplets Condensation.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/20%20-%20Creating%20droplets%20effect/150%20-%20Creating%20Droplets%20Condensation%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "21 - Introduction to Pyro FX Legacy",
+    "lessons": [
+      {
+        "title": "151 - Note",
+        "url": null,
+        "filename": "151 - Note.html",
+        "type": "text",
+        "content": "<p><strong>This section is outdated, Some students asked me not to delete it because they use older versions of Houdini.</strong></p><p><strong>You need to install Houdini 18.5 if you want to follow me in this section.</strong></p><p>if you already watched the Intro to pyro in Houdini 19, you can skip and ignore this section.</p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "154 - CigaretteFiles.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/154%20-%20CigaretteFiles.zip",
+            "type": "zip"
+          },
+          {
+            "title": "154 - Tireassets.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/154%20-%20Tireassets.zip",
+            "type": "zip"
+          },
+          {
+            "title": "154 - TireRenderJPG.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/154%20-%20TireRenderJPG.zip",
+            "type": "zip"
+          },
+          {
+            "title": "166 - Candle.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/166%20-%20Candle.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "152 - Introduction to the section Pyro Solver",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/152%20-%20Introduction%20to%20the%20section%20Pyro%20Solver.mp4",
+        "filename": "152 - Introduction to the section Pyro Solver.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/152%20-%20Introduction%20to%20the%20section%20Pyro%20Solver%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "153 - Understanding the Voxels",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/153%20-%20Understanding%20the%20Voxels.mp4",
+        "filename": "153 - Understanding the Voxels.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/153%20-%20Understanding%20the%20Voxels%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "154 - Here you can download the files for this sections",
+        "url": null,
+        "filename": "154 - Here you can download the files for this sections.html",
+        "type": "text",
+        "content": "<p>Make sure you download <strong>Houdini 16.5</strong> to follow me in this Section</p><p>Here you can Download the files for this section</p>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "155 - Creating smoke Emiter",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/155%20-%20Creating%20smoke%20Emiter.mp4",
+        "filename": "155 - Creating smoke Emiter.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/155%20-%20Creating%20smoke%20Emiter%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "156 - Creating a Flipbook",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/156%20-%20Creating%20a%20Flipbook.mp4",
+        "filename": "156 - Creating a Flipbook.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/156%20-%20Creating%20a%20Flipbook%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "157 - Understanding the smoke Emitter",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/157%20-%20Understanding%20the%20smoke%20Emitter.mp4",
+        "filename": "157 - Understanding the smoke Emitter.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/157%20-%20Understanding%20the%20smoke%20Emitter%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "158 - Understanding the pyro solver",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/158%20-%20Understanding%20the%20pyro%20solver.mp4",
+        "filename": "158 - Understanding the pyro solver.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/158%20-%20Understanding%20the%20pyro%20solver%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "159 - Tip 01",
+        "url": null,
+        "filename": "159 - Tip 01.html",
+        "type": "text",
+        "content": "<p>This is how to hide the bounding box around the pyro:</p><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-03-29_13-27-26-e5c2a2b939c8fe990e3cce6418b8c98e.PNG\"></figure><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/article_lecture/2021-03-29_13-27-26-dd0cbde8d40ecba62a150778d806d57c.PNG\"></figure>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "160 - Homework",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/160%20-%20Homework.mp4",
+        "filename": "160 - Homework.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/160%20-%20Homework%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "161 - Homework answer",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/161%20-%20Homework%20answer.mp4",
+        "filename": "161 - Homework answer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/161%20-%20Homework%20answer%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "162 - Prepare and Import the 3D wheel into the scene",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/162%20-%20Prepare%20and%20Import%20the%203D%20wheel%20into%20the%20scene.mp4",
+        "filename": "162 - Prepare and Import the 3D wheel into the scene.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/162%20-%20Prepare%20and%20Import%20the%203D%20wheel%20into%20the%20scene%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "163 - Start creating the fire",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/163%20-%20Start%20creating%20the%20fire.mp4",
+        "filename": "163 - Start creating the fire.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/163%20-%20Start%20creating%20the%20fire%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "164 - Finishing and caching the fire on disk",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/164%20-%20Finishing%20and%20caching%20the%20fire%20on%20disk.mp4",
+        "filename": "164 - Finishing and caching the fire on disk.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/164%20-%20Finishing%20and%20caching%20the%20fire%20on%20disk%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "165 - Final touches on the fire",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/165%20-%20Final%20touches%20on%20the%20fire.mp4",
+        "filename": "165 - Final touches on the fire.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/165%20-%20Final%20touches%20on%20the%20fire%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "166 - Candle resource download",
+        "url": null,
+        "filename": "166 - Candle resource download.html",
+        "type": "text",
+        "content": "<p>Here you can download the file for candle effect</p>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "167 - Candle effect",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/167%20-%20Candle%20effect.mp4",
+        "filename": "167 - Candle effect.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/21%20-%20Introduction%20to%20Pyro%20FX%20Legacy/167%20-%20Candle%20effect%20English.vtt",
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "22 - Flip Fluid Outdated",
+    "lessons": [
+      {
+        "title": "168 - Note",
+        "url": null,
+        "filename": "168 - Note.html",
+        "type": "text",
+        "content": "<h4>This section is outdated, everything here has been covered in \"Flip Fluid\" section.</h4><h4>I didn't delete it in case you want to watch it!</h4>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "169 - ChocolateObjfiles.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/169%20-%20ChocolateObjfiles.zip",
+            "type": "zip"
+          },
+          {
+            "title": "169 - HDR.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/169%20-%20HDR.zip",
+            "type": "zip"
+          },
+          {
+            "title": "169 - HoudiniChocolateScenesv02.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/169%20-%20HoudiniChocolateScenesv02.zip",
+            "type": "zip"
+          },
+          {
+            "title": "169 - StaticChocolateLayers.zip",
+            "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/169%20-%20StaticChocolateLayers.zip",
+            "type": "zip"
+          }
+        ]
+      },
+      {
+        "title": "169 - Download Chocolate High Resolution cached Mesh Alembic format",
+        "url": null,
+        "filename": "169 - Download Chocolate High Resolution cached Mesh Alembic format.txt",
+        "type": "text",
+        "content": "https://drive.google.com/open?id=0B9JBs8jREq9uOERCNFB5Sk91S0E",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "169 - Download Chocolate Low Resolution cached Mesh",
+        "url": null,
+        "filename": "169 - Download Chocolate Low Resolution cached Mesh.txt",
+        "type": "text",
+        "content": "https://drive.google.com/open?id=122vvOf6yqaDLWdLhiZkIieK_WE-8omqg",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "169 - Here you can download the files of chocolate project",
+        "url": null,
+        "filename": "169 - Here you can download the files of chocolate project.html",
+        "type": "text",
+        "content": "<p>Here you can download the files of chocolate project.</p>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "170 - Emitting Fluid from an Object",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/170%20-%20Emitting%20Fluid%20from%20an%20Object.mp4",
+        "filename": "170 - Emitting Fluid from an Object.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/170%20-%20Emitting%20Fluid%20from%20an%20Object%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "171 - Fill a geometry with particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/171%20-%20Fill%20a%20geometry%20with%20particles.mp4",
+        "filename": "171 - Fill a geometry with particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/171%20-%20Fill%20a%20geometry%20with%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "172 - creating the project folder",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/172%20-%20creating%20the%20project%20folder.mp4",
+        "filename": "172 - creating the project folder.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/172%20-%20creating%20the%20project%20folder%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "173 - cache the particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/173%20-%20cache%20the%20particles.mp4",
+        "filename": "173 - cache the particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/173%20-%20cache%20the%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "174 - using expressions to animate the emitter",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/174%20-%20using%20expressions%20to%20animate%20the%20emitter.mp4",
+        "filename": "174 - using expressions to animate the emitter.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/174%20-%20using%20expressions%20to%20animate%20the%20emitter%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "175 - Meshing the particles",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/175%20-%20Meshing%20the%20particles.mp4",
+        "filename": "175 - Meshing the particles.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/175%20-%20Meshing%20the%20particles%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "176 - emitting from multiple emitters",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/176%20-%20emitting%20from%20multiple%20emitters.mp4",
+        "filename": "176 - emitting from multiple emitters.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/176%20-%20emitting%20from%20multiple%20emitters%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "177 - How to add a different viscosity for each Emitter in Houdini 175",
+        "url": null,
+        "filename": "177 - How to add a different viscosity for each Emitter in Houdini 175.html",
+        "type": "text",
+        "content": "<p>In Houdini 17.5 they changed the Flip source a little bit.</p><p>As you see from the screenshot I&nbsp;created and <strong>attribute create</strong> node to add a different viscosity for each emitter.</p><p>So what's happening here is that viscosity attribute will be sent to flip solver and the flip solver will understand that you want a different viscosity for each emitter.</p><figure><img src=\"https://img-c.udemycdn.com/redactor/raw/2019-09-23_10-19-12-e5b88b597b921a844986e5992795e661.PNG\"></figure>",
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "178 - setting activation keys for emitters",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/178%20-%20setting%20activation%20keys%20for%20emitters.mp4",
+        "filename": "178 - setting activation keys for emitters.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/178%20-%20setting%20activation%20keys%20for%20emitters%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "179 - creating proxy for the collisions",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/179%20-%20creating%20proxy%20for%20the%20collisions.mp4",
+        "filename": "179 - creating proxy for the collisions.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/179%20-%20creating%20proxy%20for%20the%20collisions%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "180 - creating the cache for all emitters",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/180%20-%20creating%20the%20cache%20for%20all%20emitters.mp4",
+        "filename": "180 - creating the cache for all emitters.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/180%20-%20creating%20the%20cache%20for%20all%20emitters%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "181 - creating a mesh for every emitter",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/181%20-%20creating%20a%20mesh%20for%20every%20emitter.mp4",
+        "filename": "181 - creating a mesh for every emitter.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/181%20-%20creating%20a%20mesh%20for%20every%20emitter%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "182 - improving the mesh",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/182%20-%20improving%20the%20mesh.mp4",
+        "filename": "182 - improving the mesh.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/182%20-%20improving%20the%20mesh%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "183 - optimizing the poly count and caching",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/183%20-%20optimizing%20the%20poly%20count%20and%20caching.mp4",
+        "filename": "183 - optimizing the poly count and caching.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/183%20-%20optimizing%20the%20poly%20count%20and%20caching%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "184 - load the cache and creating flipbook",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/184%20-%20load%20the%20cache%20and%20creating%20flipbook.mp4",
+        "filename": "184 - load the cache and creating flipbook.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/184%20-%20load%20the%20cache%20and%20creating%20flipbook%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "185 - what if you dont have the alembic files",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/185%20-%20what%20if%20you%20dont%20have%20the%20alembic%20files.mp4",
+        "filename": "185 - what if you dont have the alembic files.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/185%20-%20what%20if%20you%20dont%20have%20the%20alembic%20files%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "186 - Important talk",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/186%20-%20Important%20talk.mp4",
+        "filename": "186 - Important talk.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/186%20-%20Important%20talk%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "187 - Loading the final result of the mesh",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/187%20-%20Loading%20the%20final%20result%20of%20the%20mesh.mp4",
+        "filename": "187 - Loading the final result of the mesh.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/187%20-%20Loading%20the%20final%20result%20of%20the%20mesh%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "188 - Creating materials in Houdini",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/188%20-%20Creating%20materials%20in%20Houdini.mp4",
+        "filename": "188 - Creating materials in Houdini.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/188%20-%20Creating%20materials%20in%20Houdini%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "189 - creating materials for the static layers",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/189%20-%20creating%20materials%20for%20the%20static%20layers.mp4",
+        "filename": "189 - creating materials for the static layers.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/189%20-%20creating%20materials%20for%20the%20static%20layers%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "190 - creating the ground and the camera",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/190%20-%20creating%20the%20ground%20and%20the%20camera.mp4",
+        "filename": "190 - creating the ground and the camera.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/190%20-%20creating%20the%20ground%20and%20the%20camera%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "191 - Creating the environment light",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/191%20-%20Creating%20the%20environment%20light.mp4",
+        "filename": "191 - Creating the environment light.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/191%20-%20Creating%20the%20environment%20light%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "192 - shading the first layer",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/192%20-%20shading%20the%20first%20layer.mp4",
+        "filename": "192 - shading the first layer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/192%20-%20shading%20the%20first%20layer%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "193 - shading the second layer",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/193%20-%20shading%20the%20second%20layer.mp4",
+        "filename": "193 - shading the second layer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/193%20-%20shading%20the%20second%20layer%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "194 - Shading the third layer",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/194%20-%20Shading%20the%20third%20layer.mp4",
+        "filename": "194 - Shading the third layer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/194%20-%20Shading%20the%20third%20layer%20English.vtt",
+        "resources": []
+      },
+      {
+        "title": "195 - shading the remaining static layers",
+        "url": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/195%20-%20shading%20the%20remaining%20static%20layers.mp4",
+        "filename": "195 - shading the remaining static layers.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/videos/22%20-%20Flip%20Fluid%20Outdated/195%20-%20shading%20the%20remaining%20static%20layers%20English.vtt",
+        "resources": []
+      }
+    ]
+  }
+]
