@@ -50,7 +50,7 @@ const VideoPlayer = ({
     const [isFullscreen, setIsFullscreen] = useState(false);
     const [showSpeedMenu, setShowSpeedMenu] = useState(false);
     const [showShortcuts, setShowShortcuts] = useState(false);
-    const [showVSRGuide, setShowVSRGuide] = useState(false);
+
     const [captionsEnabled, setCaptionsEnabled] = useState(true);
     const [showResumePrompt, setShowResumePrompt] = useState(false);
 
@@ -327,7 +327,7 @@ const VideoPlayer = ({
                 case 'escape':
                     setShowSpeedMenu(false);
                     setShowShortcuts(false);
-                    setShowVSRGuide(false);
+
                     break;
             }
         };
@@ -544,10 +544,12 @@ const VideoPlayer = ({
     };
 
     const toggleCaptions = () => {
+        // Only toggle the custom subtitle overlay
+        // Keep native text tracks always hidden to prevent double subtitles
+        setCaptionsEnabled(prev => !prev);
+        // Ensure native captions stay hidden
         if (videoRef.current?.textTracks?.[0]) {
-            const mode = videoRef.current.textTracks[0].mode === 'showing' ? 'hidden' : 'showing';
-            videoRef.current.textTracks[0].mode = mode;
-            setCaptionsEnabled(mode === 'showing');
+            videoRef.current.textTracks[0].mode = 'hidden';
         }
     };
 
@@ -740,22 +742,6 @@ const VideoPlayer = ({
                         </span>
                     )}
 
-                    <button
-                        onClick={() => setShowVSRGuide(true)}
-                        className="header-btn"
-                        style={{
-                            background: 'rgba(255,255,255,0.05)',
-                            border: '1px solid rgba(255,255,255,0.1)',
-                            color: '#aaa',
-                            cursor: 'pointer',
-                            fontSize: '0.75rem',
-                            padding: '4px 10px',
-                            borderRadius: '20px',
-                            transition: 'all 0.2s'
-                        }}
-                    >
-                        🎮 VSR GUIDE
-                    </button>
 
                     <button
                         onClick={() => setShowShortcuts(true)}
@@ -1592,66 +1578,6 @@ const VideoPlayer = ({
                 </div>
             )}
 
-            {/* VSR Guide Modal */}
-            {showVSRGuide && (
-                <div
-                    style={{
-                        position: 'fixed',
-                        top: 0,
-                        left: 0,
-                        right: 0,
-                        bottom: 0,
-                        background: 'rgba(0,0,0,0.85)',
-                        zIndex: 1000,
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        backdropFilter: 'blur(10px)'
-                    }}
-                    onClick={() => setShowVSRGuide(false)}
-                >
-                    <div
-                        className="glass-panel"
-                        style={{
-                            padding: '30px',
-                            maxWidth: '500px',
-                            width: '90%',
-                            background: 'rgba(30,30,30,0.95)',
-                            borderRadius: '16px',
-                            border: '1px solid rgba(255,255,255,0.1)'
-                        }}
-                        onClick={(e) => e.stopPropagation()}
-                    >
-                        <h2 style={{ marginBottom: '20px' }}>🎮 Enable RTX Video Super Resolution</h2>
-                        <ol style={{ lineHeight: '1.8', margin: '20px 0', paddingLeft: '20px' }}>
-                            <li>Open <strong>NVIDIA Control Panel</strong></li>
-                            <li>Go to <strong>Video &gt; Adjust video image settings</strong></li>
-                            <li>Check "RTX Video Enhancement" &gt; <strong>Super Resolution</strong></li>
-                            <li>Set Quality to <strong>4 (High Quality)</strong></li>
-                            <li>Play video in <strong>Full Screen</strong> for best results</li>
-                        </ol>
-                        <p style={{ fontSize: '0.85rem', color: 'rgba(255,255,255,0.6)', marginBottom: '20px' }}>
-                            💡 This uses AI upscaling to enhance video quality in real-time on RTX 30/40 series GPUs.
-                        </p>
-                        <button
-                            className="btn"
-                            onClick={() => setShowVSRGuide(false)}
-                            style={{
-                                width: '100%',
-                                padding: '12px',
-                                background: 'var(--accent-color)',
-                                border: 'none',
-                                borderRadius: '8px',
-                                color: 'black',
-                                fontWeight: '600',
-                                cursor: 'pointer'
-                            }}
-                        >
-                            Got it
-                        </button>
-                    </div>
-                </div>
-            )}
 
             {/* Global Styles */}
             <style>{`
