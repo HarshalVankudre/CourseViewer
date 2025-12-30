@@ -57,23 +57,6 @@ const TextLesson = ({ lesson, onComplete, isCompleted, initialNote }) => {
                 )}
             </div>
 
-            {/* Notes Section */}
-            <div className="notes-section" style={{ marginTop: '30px' }}>
-                <h3>Notes (Auto-saved)</h3>
-                <textarea
-                    placeholder="Take notes for this lesson..."
-                    value={noteContent}
-                    onChange={(e) => setNoteContent(e.target.value)}
-                    onBlur={() => {
-                        saveNote(lesson.url || lesson.filename, noteContent);
-                    }}
-                    style={{
-                        width: '100%',
-                        height: '150px',
-                        background: 'var(--bg-secondary)',
-                        border: '1px solid var(--border-color)',
-                        color: 'white',
-                        padding: '10px',
                         borderRadius: '8px',
                         marginTop: '10px',
                         resize: 'none'
@@ -98,7 +81,7 @@ const TextLesson = ({ lesson, onComplete, isCompleted, initialNote }) => {
                     {isCompleted ? 'Mark as Incomplete' : 'Mark as Complete'}
                 </button>
             </div>
-        </div>
+        </div >
     );
 };
 
