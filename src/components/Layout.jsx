@@ -1,14 +1,16 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import { useNavigate } from 'react-router-dom';
 import Sidebar from './Sidebar';
 import VideoPlayer from './VideoPlayer';
 import TextLesson from './TextLesson';
-import { FaBars } from 'react-icons/fa';
-import courseConfig from '../config/course.config';
+import { FaBars, FaArrowLeft } from 'react-icons/fa';
 
 // API utilities
 import { getUserId, syncUserData, updateProgress } from '../utils/api';
 
-const Layout = () => {
+const Layout = ({ courseConfig }) => {
+    const navigate = useNavigate();
+
     const [courseData, setCourseData] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [loadError, setLoadError] = useState(null);
@@ -35,8 +37,10 @@ const Layout = () => {
         const loadCourseData = async () => {
             try {
                 setIsLoading(true);
-                const dataUrl = `${courseConfig.contentBaseUrl}/course_data.json`;
-                const response = await fetch(dataUrl);
+                // CourseViewer prepares the full URL for courseDataPath
+                // Add cache-busting to force fresh load
+                const dataUrl = `${courseConfig.courseDataPath}?v=${Date.now()}`;
+                const response = await fetch(dataUrl, { cache: 'no-store' });
                 if (!response.ok) throw new Error(`Failed to load course data: ${response.status}`);
                 const data = await response.json();
                 setCourseData(data);
@@ -188,7 +192,8 @@ const Layout = () => {
                 const link = document.createElement('link');
                 link.id = 'next-video-preload';
                 link.rel = 'preload';
-                link.as = 'video';
+                link.as = 'fetch';
+                link.crossOrigin = 'anonymous';
                 link.href = nextLesson.url;
                 document.head.appendChild(link);
             }
@@ -294,6 +299,33 @@ const Layout = () => {
                     }}
                 >
                     <FaBars />
+                </button>
+
+                {/* Back to Catalog Button */}
+                <button
+                    className="back-btn"
+                    onClick={() => navigate('/')}
+                    style={{
+                        position: 'fixed',
+                        top: '20px',
+                        left: isSidebarOpen ? '400px' : '80px', // Shifted right of toggle button
+                        zIndex: 1000,
+                        background: 'rgba(0,0,0,0.5)',
+                        border: 'none',
+                        color: 'white',
+                        fontSize: '1rem',
+                        cursor: 'pointer',
+                        padding: '10px 15px',
+                        borderRadius: '8px',
+                        backdropFilter: 'blur(10px)',
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '8px',
+                        transition: 'left 0.3s ease'
+                    }}
+                    title="Back to Catalog"
+                >
+                    <FaArrowLeft /> Catalog
                 </button>
 
                 {currentLesson ? (

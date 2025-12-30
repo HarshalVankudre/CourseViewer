@@ -1,0 +1,580 @@
+[
+  {
+    "title": "1. Overview",
+    "lessons": [
+      {
+        "title": "1.Trailer",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/1.%20Overview/1.Trailer.mp4",
+        "filename": "1.Trailer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Overview",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/1.%20Overview/2.%20Overview.mp4",
+        "filename": "2. Overview.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "2. Modeling Basics",
+    "lessons": [
+      {
+        "title": "1. Hotkeys",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/2.%20Modeling%20Basics/1.%20Hotkeys.mp4",
+        "filename": "1. Hotkeys.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Edit Mode",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/2.%20Modeling%20Basics/2.%20Edit%20Mode.mp4",
+        "filename": "2. Edit Mode.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Modeling Opertations",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/2.%20Modeling%20Basics/3.%20Modeling%20Opertations.mp4",
+        "filename": "3. Modeling Opertations.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "3. Gear",
+    "lessons": [
+      {
+        "title": "1. Gear Base",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/3.%20Gear/1.%20Gear%20Base.mp4",
+        "filename": "1. Gear Base.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Subdivision Modifer",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/3.%20Gear/2.%20Subdivision%20Modifer.mp4",
+        "filename": "2. Subdivision Modifer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Bevel Modifer",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/3.%20Gear/3.%20Bevel%20Modifer.mp4",
+        "filename": "3. Bevel Modifer.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "4. Block In",
+    "lessons": [
+      {
+        "title": "1. Block In",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/4.%20Block%20In/1.%20Block%20In.mp4",
+        "filename": "1. Block In.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Handle",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/4.%20Block%20In/2.%20Handle.mp4",
+        "filename": "2. Handle.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "5. Guard",
+    "lessons": [
+      {
+        "title": "1. Extrusion",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/5.%20Guard/1.%20Extrusion.mp4",
+        "filename": "1. Extrusion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Mirror",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/5.%20Guard/2.%20Mirror.mp4",
+        "filename": "2. Mirror.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Extrusions",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/5.%20Guard/3.%20Extrusions.mp4",
+        "filename": "3. Extrusions.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Holding Edges 2",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/5.%20Guard/4.%20Holding%20Edges%202.mp4",
+        "filename": "4. Holding Edges 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "6. Pommel",
+    "lessons": [
+      {
+        "title": "1. Base",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/6.%20Pommel/1.%20Base.mp4",
+        "filename": "1. Base.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Torus",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/6.%20Pommel/2.%20Torus.mp4",
+        "filename": "2. Torus.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Tip",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/6.%20Pommel/3.%20Tip.mp4",
+        "filename": "3. Tip.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Mirror and Extrusion",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/6.%20Pommel/4.%20Mirror%20and%20Extrusion.mp4",
+        "filename": "4. Mirror and Extrusion.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "7. Blade",
+    "lessons": [
+      {
+        "title": "1. Silhoutte 2",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/7.%20Blade/1.%20Silhoutte%202.mp4",
+        "filename": "1. Silhoutte 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Groove 2",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/7.%20Blade/2.%20Groove%202.mp4",
+        "filename": "2. Groove 2.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "8. UVs",
+    "lessons": [
+      {
+        "title": "1. UVs Explained",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/8.%20UVs/1.%20UVs%20Explained.mp4",
+        "filename": "1. UVs Explained.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. UV Tab",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/8.%20UVs/2.%20UV%20Tab.mp4",
+        "filename": "2. UV Tab.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Handle",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/8.%20UVs/3.%20Handle.mp4",
+        "filename": "3. Handle.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Gaurd",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/8.%20UVs/4.%20Gaurd.mp4",
+        "filename": "4. Gaurd.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "5. Pommel",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/8.%20UVs/5.%20Pommel.mp4",
+        "filename": "5. Pommel.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "9. Shader Editor",
+    "lessons": [
+      {
+        "title": "1. Shading Tab",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/9.%20Shader%20Editor/1.%20Shading%20Tab.mp4",
+        "filename": "1. Shading Tab.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Shader Editor",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/9.%20Shader%20Editor/2.%20Shader%20Editor.mp4",
+        "filename": "2. Shader Editor.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. My First Shader Network",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/9.%20Shader%20Editor/3.%20My%20First%20Shader%20Network.mp4",
+        "filename": "3. My First Shader Network.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Material Duplication",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/9.%20Shader%20Editor/4.%20Material%20Duplication.mp4",
+        "filename": "4. Material Duplication.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "10. Runes",
+    "lessons": [
+      {
+        "title": "1. Runes Setup",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/10.%20Runes/1.%20Runes%20Setup.mp4",
+        "filename": "1. Runes Setup.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Rune Assignment",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/10.%20Runes/2.%20Rune%20Assignment.mp4",
+        "filename": "2. Rune Assignment.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Pommel",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/10.%20Runes/3.%20Pommel.mp4",
+        "filename": "3. Pommel.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "11. Cinematic Look",
+    "lessons": [
+      {
+        "title": "1. Camera Setup",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/11.%20Cinematic%20Look/1.%20Camera%20Setup.mp4",
+        "filename": "1. Camera Setup.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. HDRI",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/11.%20Cinematic%20Look/2.%20HDRI.mp4",
+        "filename": "2. HDRI.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Blur Background",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/11.%20Cinematic%20Look/3.%20Blur%20Background.mp4",
+        "filename": "3. Blur Background.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Color Grade",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/11.%20Cinematic%20Look/4.%20Color%20Grade.mp4",
+        "filename": "4. Color Grade.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "12. Environment",
+    "lessons": [
+      {
+        "title": "1. Online Resources",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/12.%20Environment/1.%20Online%20Resources.mp4",
+        "filename": "1. Online Resources.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Rock Kit",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/12.%20Environment/2.%20Rock%20Kit.mp4",
+        "filename": "2. Rock Kit.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Outliner",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/12.%20Environment/3.%20Outliner.mp4",
+        "filename": "3. Outliner.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Clean Up",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/12.%20Environment/4.%20Clean%20Up.mp4",
+        "filename": "4. Clean Up.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "5. Layout",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/12.%20Environment/5.%20Layout.mp4",
+        "filename": "5. Layout.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "13. Rendering",
+    "lessons": [
+      {
+        "title": "1. Atmosphere",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/13.%20Rendering/1.%20Atmosphere.mp4",
+        "filename": "1. Atmosphere.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Lighting",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/13.%20Rendering/2.%20Lighting.mp4",
+        "filename": "2. Lighting.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Volumetrics",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/13.%20Rendering/3.%20Volumetrics.mp4",
+        "filename": "3. Volumetrics.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Final Tweaks",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/13.%20Rendering/4.%20Final%20Tweaks.mp4",
+        "filename": "4. Final Tweaks.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "14. Key Frames",
+    "lessons": [
+      {
+        "title": "1. Key Frames",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/14.%20Key%20Frames/1.%20Key%20Frames.mp4",
+        "filename": "1. Key Frames.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "15. Particles",
+    "lessons": [
+      {
+        "title": "1. Particle Setup",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/15.%20Particles/1.%20Particle%20Setup.mp4",
+        "filename": "1. Particle Setup.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Particle Rendering",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/15.%20Particles/2.%20Particle%20Rendering.mp4",
+        "filename": "2. Particle Rendering.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "16. Character and Camera Setup",
+    "lessons": [
+      {
+        "title": "1. Mixamo Character",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/16.%20Character%20and%20Camera%20Setup/1.%20Mixamo%20Character.mp4",
+        "filename": "1. Mixamo Character.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "2. Second Camera",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/16.%20Character%20and%20Camera%20Setup/2.%20Second%20Camera.mp4",
+        "filename": "2. Second Camera.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "3. Video Editor",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/16.%20Character%20and%20Camera%20Setup/3.%20Video%20Editor.mp4",
+        "filename": "3. Video Editor.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      },
+      {
+        "title": "4. Next Steps",
+        "url": "https://storage.googleapis.com/blender-fasttrack-bucket/16.%20Character%20and%20Camera%20Setup/4.%20Next%20Steps.mp4",
+        "filename": "4. Next Steps.mp4",
+        "type": "video",
+        "content": null,
+        "subtitle": null,
+        "resources": []
+      }
+    ]
+  },
+  {
+    "title": "Project files",
+    "lessons": [
+      {
+        "title": "Resources",
+        "url": null,
+        "filename": null,
+        "type": "text",
+        "content": "<p>Download the resources below:</p>",
+        "subtitle": null,
+        "resources": [
+          {
+            "title": "Blender+Fast+Track+-+Hotkey+Cheat+Sheet.pdf",
+            "url": "https://storage.googleapis.com/blender-fasttrack-bucket/Project%20files/Blender%2BFast%2BTrack%2B-%2BHotkey%2BCheat%2BSheet.pdf",
+            "type": "pdf"
+          },
+          {
+            "title": "finalProject.zip",
+            "url": "https://storage.googleapis.com/blender-fasttrack-bucket/Project%20files/finalProject.zip",
+            "type": "zip"
+          },
+          {
+            "title": "starterKit.zip",
+            "url": "https://storage.googleapis.com/blender-fasttrack-bucket/Project%20files/starterKit.zip",
+            "type": "zip"
+          }
+        ]
+      }
+    ]
+  }
+]

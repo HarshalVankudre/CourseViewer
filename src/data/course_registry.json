@@ -1,0 +1,20 @@
+[
+    {
+        "id": "houdini-fx-19",
+        "title": "Houdini FX 19",
+        "subtitle": "Complete Bootcamp",
+        "description": "Master Houdini FX 19 with this comprehensive bootcamp covering procedural modeling, dynamics, particles, and more.",
+        "thumbnail": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/images/thumbnail.jpg",
+        "contentBaseUrl": "https://storage.googleapis.com/houdini-fx-assets-omega-479214",
+        "courseDataPath": "/src/data/course_data.json"
+    },
+    {
+        "id": "blender-fast-track",
+        "title": "Blender Fast Track Vol 2",
+        "subtitle": "Sword in the Stone",
+        "description": "Learn advanced Blender techniques through building a complete sword in the stone project.",
+        "thumbnail": "https://via.placeholder.com/400x225/10b981/ffffff?text=Blender",
+        "contentBaseUrl": "https://storage.googleapis.com/blender-fasttrack-course",
+        "courseDataPath": "course_data.json"
+    }
+]

@@ -1,3 +1,5 @@
+// Set to false to disable API sync features if backend is not running
+const ENABLE_API = false;
 const API_BASE_URL = 'http://localhost:3001/api';
 
 export const getUserId = () => {
@@ -10,18 +12,20 @@ export const getUserId = () => {
 };
 
 export const syncUserData = async () => {
+    if (!ENABLE_API) return null;
     const userId = getUserId();
     try {
         const response = await fetch(`${API_BASE_URL}/sync/${userId}`);
         if (!response.ok) throw new Error('Sync failed');
         return await response.json();
     } catch (error) {
-        console.error('API Sync Error:', error);
+        // console.error('API Sync Error:', error);
         return null; // Fallback to local
     }
 };
 
 export const updateProgress = async (lessonId, isCompleted, position) => {
+    if (!ENABLE_API) return;
     const userId = getUserId();
     try {
         await fetch(`${API_BASE_URL}/progress`, {
@@ -30,11 +34,12 @@ export const updateProgress = async (lessonId, isCompleted, position) => {
             body: JSON.stringify({ userId, lessonId, isCompleted, position })
         });
     } catch (error) {
-        console.error('API Progress Error:', error);
+        // console.error('API Progress Error:', error);
     }
 };
 
 export const saveNote = async (lessonId, content) => {
+    if (!ENABLE_API) return;
     const userId = getUserId();
     try {
         await fetch(`${API_BASE_URL}/note`, {
@@ -43,6 +48,6 @@ export const saveNote = async (lessonId, content) => {
             body: JSON.stringify({ userId, lessonId, content })
         });
     } catch (error) {
-        console.error('API Note Error:', error);
+        // console.error('API Note Error:', error);
     }
 };

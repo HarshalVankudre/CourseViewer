@@ -1,12 +1,21 @@
 import React from 'react';
-import Layout from './components/Layout';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import CourseCatalog from './components/CourseCatalog';
+import CourseViewer from './components/CourseViewer';
 import './index.css';
 
 function App() {
   return (
-    <div className="App">
-      <Layout />
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<CourseCatalog />} />
+          <Route path="/course/:courseId" element={<CourseViewer />} />
+          {/* Fallback to catalog */}
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 
