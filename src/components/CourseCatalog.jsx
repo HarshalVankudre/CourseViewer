@@ -111,7 +111,7 @@ const CourseCard = React.memo(({ course, index }) => {
                             <div className="gradient-pattern" />
                         </div>
 
-                        {course.thumbnail && !course.thumbnail.endsWith('.jpg') && (
+                        {course.thumbnail && (
                             <img
                                 src={course.thumbnail}
                                 alt=""
