@@ -6,7 +6,7 @@
         "description": "Master Houdini FX 19 with this comprehensive bootcamp covering procedural modeling, dynamics, particles, and more.",
         "thumbnail": "https://storage.googleapis.com/houdini-fx-assets-omega-479214/assets/images/thumbnail.jpg",
         "contentBaseUrl": "https://storage.googleapis.com/houdini-fx-assets-omega-479214",
-        "courseDataPath": "/src/data/course_data.json"
+        "courseDataPath": "/course_data.json"
     },
     {
         "id": "blender-fast-track",
