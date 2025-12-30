@@ -1,26 +1,22 @@
-# 🎬 Course Platform
+# 🎬 Multi-Course Learning Platform
 
-A modern, feature-rich video course platform built with React. Host any video course with progress tracking, bookmarks, seamless video playback, and more.
+A modern, cloud-native video course platform built with React and Google Cloud. Host multiple video courses with a beautiful glassmorphism UI, progress tracking, and seamless streaming.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite)
-![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=nodedotjs)
+![GCP](https://img.shields.io/badge/Google_Cloud-Run-4285F4?logo=googlecloud)
 
 ---
 
 ## ✨ Features
 
-| Feature | Description |
-|---------|-------------|
-| 🎥 **Video Player** | Custom controls, keyboard shortcuts, playback speed |
-| 📊 **Progress Tracking** | Auto-save position, resume exactly where you left off |
-| ✅ **Completion Marking** | Manual or auto-complete when video ends |
-| 🔖 **Bookmarks** | Save favorite lessons for quick access |
-| 📝 **Subtitles** | Custom styled subtitle overlay |
-| ⏭️ **Auto-Next** | Automatically plays next lesson |
-| 💾 **Persistence** | Progress saved to localStorage + optional backend |
-| 🎨 **Dark Theme** | Beautiful modern dark UI |
-| 📱 **Responsive** | Works on desktop and mobile |
+- **📚 Multi-Course Catalog**: Browse all your courses in a responsive, searchable grid.
+- **🎨 Premium UI**: Glassmorphism design, smooth animations, and skeleton loading states.
+- **🎥 Adaptive Player**: Custom video player with keyboard shortcuts and playback speed control.
+- **💾 Auto-Save**: Progress is automatically saved to local storage so you can resume exactly where you left off.
+- **🔍 Search & Filter**: Instantly find specific courses or filter by category.
+- **☁️ Cloud Native**: Optimized for Google Cloud Storage streaming and Cloud Run hosting.
+- **📱 Responsive**: Fully optimized for desktop, tablet, and mobile viewing.
 
 ---
 
@@ -28,8 +24,8 @@ A modern, feature-rich video course platform built with React. Host any video co
 
 ### Prerequisites
 - Node.js 18+
-- Python 3.8+ (for course generation)
-- GCP account (for hosting content)
+- Python 3.8+ (for generating course data)
+- Google Cloud Platform account
 
 ### Installation
 
@@ -53,16 +49,19 @@ npm run dev
 course-platform/
 ├── src/
 │   ├── components/
-│   │   ├── Layout.jsx          # Main layout with sidebar
-│   │   ├── VideoPlayer.jsx     # Custom video player
-│   │   ├── Sidebar.jsx         # Course navigation
-│   │   └── TextLesson.jsx      # HTML/text lessons
-│   ├── config/
-│   │   └── course.config.js    # ⚙️ Course configuration
+│   │   ├── CourseCatalog.jsx   # 🏠 Main course grid & search
+│   │   ├── CourseViewer.jsx    # 📺 Course player container
+│   │   ├── Layout.jsx          #     Main layout wrapper
+│   │   ├── VideoPlayer.jsx     #     Custom video player
+│   │   └── Sidebar.jsx         #     Lesson navigation
+│   ├── data/
+│   │   └── course_registry.json # ⚙️ Central course configuration
 │   └── utils/
-│       └── api.js              # Backend API utilities
-├── server/                      # Optional backend API
-├── generate_course_data.py      # 🛠️ Course JSON generator
+│       └── api.js              #     API utilities
+├── public/
+│   └── assets/                 #     Static assets (thumbnails)
+├── generate_course_data.py     # 🛠️ Python script to scan course folders
+├── Dockerfile                  # 🐳 Container configuration
 └── README.md
 ```
 
@@ -70,57 +69,46 @@ course-platform/
 
 ## ⚙️ Configuration
 
-Edit `src/config/course.config.js`:
+Courses are managed in `src/data/course_registry.json`. To add or modify courses, update this file:
 
-```javascript
-const courseConfig = {
-    courseId: 'my-course',                    // Unique ID (no spaces)
-    courseName: 'My Awesome Course',          // Display name
-    courseSubtitle: 'Complete Guide',         // Subtitle
-    contentBaseUrl: 'https://storage.googleapis.com/my-bucket',
-    accentColor: '#3b82f6',
-    faviconEmoji: '🎓',
-};
+```json
+[
+    {
+        "id": "my-course-id",
+        "title": "Course Title",
+        "description": "Short description...",
+        "thumbnail": "/assets/images/my-thumb.jpg",
+        "contentBaseUrl": "https://storage.googleapis.com/my-bucket",
+        "courseDataPath": "course_data.json"
+    }
+]
 ```
 
 ---
 
 ## 📦 Adding a New Course
 
-### 1. Create GCP Bucket
+1.  **Prepare Content**: Organize your video files and running the generation script:
+    ```bash
+    python generate_course_data.py "C:\Path\To\Course" "https://storage.googleapis.com/your-bucket"
+    ```
+2.  **Upload to Cloud**: Upload the course folder and the generated `course_data.json` to a GCS bucket.
+    ```bash
+    gcloud storage cp -r "C:\Path\To\Course\*" gs://your-bucket/
+    ```
+3.  **Register Course**: Add the course details to `src/data/course_registry.json`.
+4.  **Add Thumbnail**: Place a standard 16:9 thumbnail in `public/assets/images/`.
+
+---
+
+## ☁️ Deployment
+
+The project is configured for **Google Cloud Run**.
+
 ```bash
-gcloud storage buckets create gs://my-course-bucket --location=us
+# Deploy directly from source
+gcloud run deploy course-website --source . --region us-central1 --allow-unauthenticated
 ```
-
-### 2. Upload Course Content
-```bash
-# Upload entire course folder
-gcloud storage cp -r "./My Course/*" gs://my-course-bucket/
-```
-
-Expected structure:
-```
-my-course-bucket/
-├── 1 - Introduction/
-│   ├── 1 - Welcome.mp4
-│   └── 1 - Welcome English.vtt
-├── 2 - Basics/
-│   └── ...
-└── course_data.json
-```
-
-### 3. Generate Course Data
-```bash
-python generate_course_data.py "C:\path\to\course" "https://storage.googleapis.com/my-course-bucket"
-```
-
-### 4. Upload JSON Manifest
-```bash
-gcloud storage cp course_data.json gs://my-course-bucket/
-```
-
-### 5. Update Configuration
-Edit `course.config.js` with your new bucket URL and course details.
 
 ---
 
@@ -128,38 +116,16 @@ Edit `course.config.js` with your new bucket URL and course details.
 
 | Key | Action |
 |-----|--------|
-| `Space` | Play/Pause |
+| `Space` / `K` | Play/Pause |
 | `←` / `→` | Seek -10s / +10s |
-| `↑` / `↓` | Volume up/down |
-| `F` | Toggle fullscreen |
+| `↑` / `↓` | Volume Up / Down |
+| `F` | Toggle Fullscreen |
 | `M` | Mute/Unmute |
-| `C` | Toggle captions |
-| `N` | Next lesson |
-| `P` | Previous lesson |
-| `[` / `]` | Decrease/Increase speed |
-
----
-
-## 🛠️ Development
-
-```bash
-# Start frontend
-npm run dev
-
-# Start backend (optional, for progress sync)
-cd server
-npm install
-node index.js
-```
-
----
-
-## 📄 License
-
-MIT License - feel free to use for your own courses!
+| `Shift + N` | Next Lesson |
+| `[` / `]` | Speed Control |
 
 ---
 
 <p align="center">
-  Made with ❤️ for learners everywhere
+  Made with ❤️ for the learning community
 </p>
