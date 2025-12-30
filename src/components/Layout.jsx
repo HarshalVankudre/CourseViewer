@@ -278,7 +278,7 @@ const Layout = ({ courseConfig }) => {
                 courseName={courseConfig.courseName}
             />
 
-            <main className="main-content" style={{ position: 'relative' }}>
+            <main className="main-content" style={{ position: 'relative', paddingTop: '80px' }}>
                 <button
                     className="toggle-sidebar-btn"
                     onClick={toggleSidebar}

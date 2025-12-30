@@ -105,9 +105,7 @@ const CourseCard = React.memo(({ course, index }) => {
                             className="gradient-bg"
                             style={{ background: gradient }}
                         >
-                            <div className="course-icon-wrapper">
-                                <FaGraduationCap className="course-icon" />
-                            </div>
+
                             <div className="gradient-pattern" />
                         </div>
 
