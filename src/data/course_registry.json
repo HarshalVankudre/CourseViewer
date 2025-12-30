@@ -13,7 +13,7 @@
         "title": "Blender Fast Track Vol 2",
         "subtitle": "Sword in the Stone",
         "description": "Learn advanced Blender techniques through building a complete sword in the stone project.",
-        "thumbnail": "https://via.placeholder.com/400x225/10b981/ffffff?text=Blender",
+        "thumbnail": "/assets/images/blender-thumb.png",
         "contentBaseUrl": "https://storage.googleapis.com/blender-fasttrack-course",
         "courseDataPath": "course_data.json"
     }
