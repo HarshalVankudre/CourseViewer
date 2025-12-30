@@ -22,6 +22,39 @@ const TextLesson = ({ lesson, onComplete, isCompleted, initialNote }) => {
                 fontSize: '1.1rem'
             }}>
                 <div dangerouslySetInnerHTML={{ __html: lesson.content }} />
+
+                {lesson.resources && lesson.resources.length > 0 && (
+                    <div className="resources-list" style={{ marginTop: '30px', paddingTop: '20px', borderTop: '1px solid rgba(255,255,255,0.1)' }}>
+                        <h3 style={{ fontSize: '1.2rem', marginBottom: '15px' }}>Downloads</h3>
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                            {lesson.resources.map((res, index) => (
+                                <a
+                                    key={index}
+                                    href={res.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    style={{
+                                        display: 'flex',
+                                        alignItems: 'center',
+                                        padding: '12px 20px',
+                                        background: 'rgba(255,255,255,0.1)',
+                                        borderRadius: '8px',
+                                        color: '#fff',
+                                        textDecoration: 'none',
+                                        transition: 'background 0.2s',
+                                        border: '1px solid rgba(255,255,255,0.1)'
+                                    }}
+                                    onMouseOver={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.15)'}
+                                    onMouseOut={(e) => e.currentTarget.style.background = 'rgba(255,255,255,0.1)'}
+                                >
+                                    <span style={{ marginRight: '10px', fontSize: '1.2rem' }}>📦</span>
+                                    <span>{res.title}</span>
+                                    <span style={{ marginLeft: 'auto', fontSize: '0.9rem', opacity: 0.7, textTransform: 'uppercase' }}>{res.type}</span>
+                                </a>
+                            ))}
+                        </div>
+                    </div>
+                )}
             </div>
 
             {/* Notes Section */}

@@ -14,7 +14,7 @@ gcloud storage buckets create gs://$BUCKET_NAME --project=$PROJECT_ID --location
 $corsJson = @"
 [
   {
-    "origin": ["http://localhost:5173", "http://localhost:3000", "https://course-website-2wtvedoqxa-uc.a.run.app"],
+    "origin": ["http://localhost:5173", "http://localhost:3000", "https://course-website-2wtvedoqxa-uc.a.run.app", "https://course-website-942547788950.us-central1.run.app"],
     "method": ["GET", "HEAD", "OPTIONS"],
     "responseHeader": ["Content-Type", "Access-Control-Allow-Origin"],
     "maxAgeSeconds": 3600

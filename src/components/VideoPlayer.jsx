@@ -1670,6 +1670,45 @@ const VideoPlayer = ({
                     background: rgba(255,255,255,0.3);
                 }
             `}</style>
+            {/* Resources Section */}
+            {lesson.resources && lesson.resources.length > 0 && (
+                <div className="video-resources" style={{ marginTop: '20px', padding: '0 50px' }}>
+                    <h3 style={{ fontSize: '1.1rem', marginBottom: '15px' }}>Resources</h3>
+                    <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+                        {lesson.resources.map((res, index) => (
+                            <a
+                                key={index}
+                                href={res.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                style={{
+                                    display: 'flex',
+                                    alignItems: 'center',
+                                    padding: '10px 16px',
+                                    background: 'rgba(255,255,255,0.05)',
+                                    borderRadius: '6px',
+                                    color: '#fff',
+                                    textDecoration: 'none',
+                                    fontSize: '0.9rem',
+                                    border: '1px solid rgba(255,255,255,0.1)',
+                                    transition: 'all 0.2s'
+                                }}
+                                onMouseOver={(e) => {
+                                    e.currentTarget.style.background = 'rgba(255,255,255,0.1)';
+                                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.2)';
+                                }}
+                                onMouseOut={(e) => {
+                                    e.currentTarget.style.background = 'rgba(255,255,255,0.05)';
+                                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.1)';
+                                }}
+                            >
+                                <span style={{ marginRight: '8px' }}>📦</span>
+                                {res.title}
+                            </a>
+                        ))}
+                    </div>
+                </div>
+            )}
         </div>
     );
 };
