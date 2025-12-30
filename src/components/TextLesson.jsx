@@ -57,12 +57,7 @@ const TextLesson = ({ lesson, onComplete, isCompleted, initialNote }) => {
                 )}
             </div>
 
-                        borderRadius: '8px',
-                        marginTop: '10px',
-                        resize: 'none'
-                    }}
-                />
-            </div>
+
 
             <div className="action-area" style={{ marginTop: '40px', textAlign: 'center' }}>
                 <button

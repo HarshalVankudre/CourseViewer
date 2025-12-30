@@ -1447,110 +1447,102 @@ const VideoPlayer = ({
                 </div>
             )}
 
-            padding: '14px',
-            borderRadius: '12px',
-            resize: 'vertical',
-            fontSize: '0.9rem',
-            lineHeight: '1.6',
-            fontFamily: 'inherit'
-                    }}
-                />
-        </div>
 
-            {/* Keyboard Shortcuts Modal */ }
-    {
-        showShortcuts && (
-            <div
-                style={{
-                    position: 'fixed',
-                    top: 0,
-                    left: 0,
-                    right: 0,
-                    bottom: 0,
-                    background: 'rgba(0,0,0,0.85)',
-                    zIndex: 1000,
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    backdropFilter: 'blur(10px)'
-                }}
-                onClick={() => setShowShortcuts(false)}
-            >
-                <div
-                    className="glass-panel"
-                    style={{
-                        padding: '30px',
-                        maxWidth: '500px',
-                        width: '90%',
-                        maxHeight: '80vh',
-                        overflowY: 'auto',
-                        background: 'rgba(30,30,30,0.95)',
-                        borderRadius: '16px',
-                        border: '1px solid rgba(255,255,255,0.1)'
-                    }}
-                    onClick={(e) => e.stopPropagation()}
-                >
-                    <h2 style={{ marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '10px' }}>
-                        <FaKeyboard /> Keyboard Shortcuts
-                    </h2>
-                    <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '12px 20px', alignItems: 'center' }}>
-                        {[
-                            ['Space / K', 'Play / Pause'],
-                            ['J', 'Rewind 10 seconds'],
-                            ['L', 'Forward 10 seconds'],
-                            ['← / →', 'Seek back / forward'],
-                            ['↑ / ↓', 'Volume up / down'],
-                            ['M', 'Toggle mute'],
-                            ['F', 'Toggle fullscreen'],
-                            ['C', 'Toggle captions'],
-                            ['P', 'Picture-in-picture'],
-                            ['B', 'Add bookmark'],
-                            ['Shift + N', 'Next lesson'],
-                            ['< / >', 'Decrease / Increase speed'],
-                            ['0-9', 'Seek to 0%-90%'],
-                            ['Home / End', 'Beginning / End'],
-                            ['?', 'Show shortcuts'],
-                            ['Esc', 'Close menus']
-                        ].map(([key, desc], i) => (
-                            <React.Fragment key={i}>
-                                <kbd style={{
-                                    background: 'rgba(255,255,255,0.1)',
-                                    padding: '4px 10px',
-                                    borderRadius: '6px',
-                                    fontSize: '0.85rem',
-                                    fontFamily: 'monospace',
-                                    border: '1px solid rgba(255,255,255,0.2)',
-                                    whiteSpace: 'nowrap'
-                                }}>{key}</kbd>
-                                <span style={{ color: 'rgba(255,255,255,0.8)' }}>{desc}</span>
-                            </React.Fragment>
-                        ))}
-                    </div>
-                    <button
-                        className="btn"
-                        onClick={() => setShowShortcuts(false)}
+
+            {/* Keyboard Shortcuts Modal */}
+            {
+                showShortcuts && (
+                    <div
                         style={{
-                            marginTop: '24px',
-                            width: '100%',
-                            padding: '12px',
-                            background: 'var(--accent-color)',
-                            border: 'none',
-                            borderRadius: '8px',
-                            color: 'black',
-                            fontWeight: '600',
-                            cursor: 'pointer'
+                            position: 'fixed',
+                            top: 0,
+                            left: 0,
+                            right: 0,
+                            bottom: 0,
+                            background: 'rgba(0,0,0,0.85)',
+                            zIndex: 1000,
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            backdropFilter: 'blur(10px)'
                         }}
+                        onClick={() => setShowShortcuts(false)}
                     >
-                        Got it
-                    </button>
-                </div>
-            </div>
-        )
-    }
+                        <div
+                            className="glass-panel"
+                            style={{
+                                padding: '30px',
+                                maxWidth: '500px',
+                                width: '90%',
+                                maxHeight: '80vh',
+                                overflowY: 'auto',
+                                background: 'rgba(30,30,30,0.95)',
+                                borderRadius: '16px',
+                                border: '1px solid rgba(255,255,255,0.1)'
+                            }}
+                            onClick={(e) => e.stopPropagation()}
+                        >
+                            <h2 style={{ marginBottom: '20px', display: 'flex', alignItems: 'center', gap: '10px' }}>
+                                <FaKeyboard /> Keyboard Shortcuts
+                            </h2>
+                            <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '12px 20px', alignItems: 'center' }}>
+                                {[
+                                    ['Space / K', 'Play / Pause'],
+                                    ['J', 'Rewind 10 seconds'],
+                                    ['L', 'Forward 10 seconds'],
+                                    ['← / →', 'Seek back / forward'],
+                                    ['↑ / ↓', 'Volume up / down'],
+                                    ['M', 'Toggle mute'],
+                                    ['F', 'Toggle fullscreen'],
+                                    ['C', 'Toggle captions'],
+                                    ['P', 'Picture-in-picture'],
+                                    ['B', 'Add bookmark'],
+                                    ['Shift + N', 'Next lesson'],
+                                    ['< / >', 'Decrease / Increase speed'],
+                                    ['0-9', 'Seek to 0%-90%'],
+                                    ['Home / End', 'Beginning / End'],
+                                    ['?', 'Show shortcuts'],
+                                    ['Esc', 'Close menus']
+                                ].map(([key, desc], i) => (
+                                    <React.Fragment key={i}>
+                                        <kbd style={{
+                                            background: 'rgba(255,255,255,0.1)',
+                                            padding: '4px 10px',
+                                            borderRadius: '6px',
+                                            fontSize: '0.85rem',
+                                            fontFamily: 'monospace',
+                                            border: '1px solid rgba(255,255,255,0.2)',
+                                            whiteSpace: 'nowrap'
+                                        }}>{key}</kbd>
+                                        <span style={{ color: 'rgba(255,255,255,0.8)' }}>{desc}</span>
+                                    </React.Fragment>
+                                ))}
+                            </div>
+                            <button
+                                className="btn"
+                                onClick={() => setShowShortcuts(false)}
+                                style={{
+                                    marginTop: '24px',
+                                    width: '100%',
+                                    padding: '12px',
+                                    background: 'var(--accent-color)',
+                                    border: 'none',
+                                    borderRadius: '8px',
+                                    color: 'black',
+                                    fontWeight: '600',
+                                    cursor: 'pointer'
+                                }}
+                            >
+                                Got it
+                            </button>
+                        </div>
+                    </div>
+                )
+            }
 
 
-    {/* Global Styles */ }
-    <style>{`
+            {/* Global Styles */}
+            <style>{`
                 @keyframes spin {
                     from { transform: rotate(0deg); }
                     to { transform: rotate(360deg); }
@@ -1640,47 +1632,47 @@ const VideoPlayer = ({
                     background: rgba(255,255,255,0.3);
                 }
             `}</style>
-    {/* Resources Section */ }
-    {
-        lesson.resources && lesson.resources.length > 0 && (
-            <div className="video-resources" style={{ marginTop: '20px', padding: '0 50px' }}>
-                <h3 style={{ fontSize: '1.1rem', marginBottom: '15px' }}>Resources</h3>
-                <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-                    {lesson.resources.map((res, index) => (
-                        <a
-                            key={index}
-                            href={res.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                padding: '10px 16px',
-                                background: 'rgba(255,255,255,0.05)',
-                                borderRadius: '6px',
-                                color: '#fff',
-                                textDecoration: 'none',
-                                fontSize: '0.9rem',
-                                border: '1px solid rgba(255,255,255,0.1)',
-                                transition: 'all 0.2s'
-                            }}
-                            onMouseOver={(e) => {
-                                e.currentTarget.style.background = 'rgba(255,255,255,0.1)';
-                                e.currentTarget.style.borderColor = 'rgba(255,255,255,0.2)';
-                            }}
-                            onMouseOut={(e) => {
-                                e.currentTarget.style.background = 'rgba(255,255,255,0.05)';
-                                e.currentTarget.style.borderColor = 'rgba(255,255,255,0.1)';
-                            }}
-                        >
-                            <span style={{ marginRight: '8px' }}>📦</span>
-                            {res.title}
-                        </a>
-                    ))}
-                </div>
-            </div>
-        )
-    }
+            {/* Resources Section */}
+            {
+                lesson.resources && lesson.resources.length > 0 && (
+                    <div className="video-resources" style={{ marginTop: '20px', padding: '0 50px' }}>
+                        <h3 style={{ fontSize: '1.1rem', marginBottom: '15px' }}>Resources</h3>
+                        <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+                            {lesson.resources.map((res, index) => (
+                                <a
+                                    key={index}
+                                    href={res.url}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    style={{
+                                        display: 'flex',
+                                        alignItems: 'center',
+                                        padding: '10px 16px',
+                                        background: 'rgba(255,255,255,0.05)',
+                                        borderRadius: '6px',
+                                        color: '#fff',
+                                        textDecoration: 'none',
+                                        fontSize: '0.9rem',
+                                        border: '1px solid rgba(255,255,255,0.1)',
+                                        transition: 'all 0.2s'
+                                    }}
+                                    onMouseOver={(e) => {
+                                        e.currentTarget.style.background = 'rgba(255,255,255,0.1)';
+                                        e.currentTarget.style.borderColor = 'rgba(255,255,255,0.2)';
+                                    }}
+                                    onMouseOut={(e) => {
+                                        e.currentTarget.style.background = 'rgba(255,255,255,0.05)';
+                                        e.currentTarget.style.borderColor = 'rgba(255,255,255,0.1)';
+                                    }}
+                                >
+                                    <span style={{ marginRight: '8px' }}>📦</span>
+                                    {res.title}
+                                </a>
+                            ))}
+                        </div>
+                    </div>
+                )
+            }
         </div >
     );
 };
